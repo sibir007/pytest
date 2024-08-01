@@ -1,0 +1,9 @@
+ah*
+cards_proj/
+ch*
+exercises/
+markdown/
+pytest.ini
+.venv
+.coverag*
+
